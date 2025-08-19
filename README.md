@@ -1,5 +1,5 @@
 ### FizzBuzz on Steroids
-###### Date: Wednesday 19-Aug-2025 (3rd Semester)
+###### Date: Wednesday 19th August 2025 (3rd Semester)
 ###### 3rd Lecture of CS-213: Reverse Engineering taken by Prof. VarunKumar Jayapaul
 
 ###### This program implements several variations of the FizzBuzz game, determined by user input. It can handle both integer and floating-point numbers. The core logic revolves around the numbers 3, 5, and 7, which are mapped to the words "Fizz", "Buzz", and "Boom" respectively.
