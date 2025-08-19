@@ -9,8 +9,6 @@
 
 #### How to Run
 ###### To compile and run the program on Linux, MacOS or WSL (on Windows)
-
-###### **For Linux and macOS:**
 ```bash
 g++ fizzbuzz_on_steroids.cpp -o sol && ./sol && rm -f sol
 ```
