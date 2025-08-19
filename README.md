@@ -7,6 +7,12 @@
 ###### Rule - 2: Using 'else' statements is not allowed.
 
 
+#### How to Run
+###### To compile and run the program, use the following command in your terminal:
+```bash
+g++ fizzbuzz_on_steroids.cpp -o sol && ./sol && rm -f sol
+```
+
 #### Core Modes
 ###### The program prompts the user to select different modes of operation. The primary choice is between a standard output mode and a "Counter" mode.
 
