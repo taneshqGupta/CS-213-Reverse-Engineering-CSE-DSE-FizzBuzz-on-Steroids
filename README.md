@@ -1,4 +1,4 @@
-### FizzBuzz on Steroids: Code Capabilities
+### FizzBuzz on Steroids
 ###### Date: Wed 19-Aug-2025 (3rd Semester)
 ###### 3rd Lecture of CS-213: Reverse Engineering taken by Prof. VarunKumar Jayapaul
 
