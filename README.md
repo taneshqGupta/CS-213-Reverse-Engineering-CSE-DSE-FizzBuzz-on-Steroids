@@ -3,6 +3,8 @@
 ###### 3rd Lecture of CS-213: Reverse Engineering taken by Prof. VarunKumar Jayapaul
 
 ###### This program implements several variations of the FizzBuzz game, determined by user input. It can handle both integer and floating-point numbers. The core logic revolves around the numbers 3, 5, and 7, which are mapped to the words "Fizz", "Buzz", and "Boom" respectively.
+###### Rule - 1: Using Modulus Operator (%) is not allowed.
+###### Rule - 2: Using 'else' statements is not allowed.
 
 
 #### Core Modes
