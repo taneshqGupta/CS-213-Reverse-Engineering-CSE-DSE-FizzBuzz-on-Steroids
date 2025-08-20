@@ -178,7 +178,7 @@ int main() {
     bool counters;
     cout << "Write 1 for Counter.\nWrite 0 for no Counter.\n";
     cin >> counters;
-    if (counters){ 
+    if (counters) { 
         solve_decimal_counter(m);
         return 0;
     }
